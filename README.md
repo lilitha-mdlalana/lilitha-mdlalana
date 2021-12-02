@@ -22,7 +22,8 @@ Welcome! I'm a dude in high school, 16 years old & I am studying to be a Full St
 
 #### More about me: 
 - 😣 Currently learning Flutter and Firebase.
-- 🪐 In love with the Dart programming languages.
+- 🪐 In love with the Dart and  JavaScript programming languages.
+- When I'm not coding, I'm playing on my PS or reading a book( mainly science fiction or biographies )
 - 🎧 I like to listen to music.
 
 ### Languages && Skills I know
