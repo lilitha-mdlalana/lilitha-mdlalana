@@ -21,7 +21,7 @@ Welcome! I'm a dude in high school, 16 years old & I am studying to be a Full St
 - My uncles startup as their Junior Mobile Developer
 
 #### More about me: 
-- 😣 Currently studying Flutter.
+- 😣 Currently learning Flutter and Firebase.
 - 🪐 In love with the Dart programming languages.
 - 🎧 I like to listen to music.
 
