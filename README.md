@@ -35,6 +35,16 @@ Welcome! I'm a dude in high school, 16 years old & I am studying to be a Full St
 - Git
 - React & Next.js
 
+
+### Things i want to learn
+- Rust
+- C++
+- Ethereum(Solidity)
+- Raspberrypi and Arduino 
+- Robotics 
+- Animation and Video Editing
+
+
 ### How I work  💻
 I'm a person with an eye for good design so you will always find me trying to improve a webpage or an app trying to make it look and work better.
 
