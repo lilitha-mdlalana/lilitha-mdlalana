@@ -19,7 +19,7 @@ Welcome! I'm a dude in high school, 16 years old & I am studying to be a Full St
 
 ###  🔭 I’m currently working on ...
 - My uncles startup as their Junior Mobile Developer
--Building and shipping a shopping app
+- Building and shipping a shopping app
 
 #### More about me: 
 - 😣 Currently learning Flutter and Firebase.
