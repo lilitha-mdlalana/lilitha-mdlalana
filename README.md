@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## Hi, I'm Lilitha ! 👋
 
-Welcome! I'm a dude in high school, 16 years old & I am studying to be a Full Stack Engineer. I study programming on my own although I'm not  a great(yet) programmer but I would like to. I code on a daily to try and improve my programming skills.
+Welcome! I'm a dude in high school, 17 years old & I am studying to be a Full Stack Engineer. I study programming on my own although I'm not  a great(yet) programmer but I would like to. I code on a daily to try and improve my programming skills.
 
 ###  🔭 I’m currently working on ...
 - My uncles startup as their Junior Mobile Developer
