@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lilitha</h1>
 <h3 align="center">A passionate frontend developer from Western Cape</h3>
 
-<p align="left"> <a href="https://twitter.com/techdevlitha" target="blank"><img src="https://img.shields.io/twitter/follow/techdevlitha?logo=twitter&style=for-the-badge" alt="techdevlitha" /></a> </p>
+<p align="left"> <a href="https://twitter.com/techdevlitha" target="blank"><img src="https://img.shields.io/twitter/follow/dev_litha?logo=twitter&style=for-the-badge" alt="techdevlitha" /></a> </p>
 
 - 🌱 I’m currently learning **Nuxt and Buefy**
 
