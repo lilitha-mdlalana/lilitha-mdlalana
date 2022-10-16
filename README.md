@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nuxt and Buefy**
 
-- 👨‍💻 All of my projects are available at [lilitha.netlify.app](lilitha.netlify.app)
+- 👨‍💻 All of my projects are available at [lilitha-mdlalana.netlify.app](lilitha-mdlalana.netlify.app)
 
 - 📫 How to reach me **innomdlalana@gmail.com**
 
