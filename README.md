@@ -60,6 +60,7 @@ I’m especially interested in how things work under the hood, and I enjoy pushi
 
 * Django
 * PostgreSQL
+* Firebase / Supabase
 
 ### Tools & Other
 
