@@ -1,87 +1,97 @@
-## Hey 👋, I'm Lilitha Mdlalana
+# Hey 👋, I'm Lilitha Mdlalana
+
+**Junior Software Engineer · Frontend-focused · Growing into Full Stack**
 
 <a href="https://github.com/lilitha-mdlalana" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://twitter.com/dev_litha" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/lilitha-mdlalana" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 ---
 
-### Glad to see you here
+## 👨🏽‍💻 About Me
 
-I’m a software engineer who enjoys building interactive web experiences and full-stack applications.
-I care about clean UI, performance, and creating products that feel intuitive to use.
+I'm a Junior Software Engineer at **Mukuru**, working primarily with React, TypeScript, and Chakra UI to build and maintain production applications.
 
-Over time, I’ve worked across the stack — from crafting responsive frontends to designing backend systems.
+I started as a Software Engineer Intern and progressed into a Junior Software Engineer role, taking on greater responsibility across application development and shared component libraries.
 
-I’m especially interested in how things work under the hood, and I enjoy pushing beyond just using tools to actually understanding and shaping them.
+I enjoy understanding how systems work beneath the surface — whether that's investigating difficult bugs, tracing failures to their root cause, improving performance, or designing maintainable solutions.
+
+I'm expanding my full-stack experience while continuing to deepen my understanding of software architecture, backend systems, and the engineering principles behind reliable software.
+
+- 🔍 I enjoy debugging, root-cause analysis, and solving problems that aren't immediately obvious.
+- 🧩 I'm interested in reusable components, frontend architecture, and developer tooling.
+- 🛠️ I value maintainability, thoughtful design, and understanding the *why* behind technical decisions.
+- 🌱 Currently expanding my knowledge of backend development and .NET.
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Projects & Experiments
 
-* 🛒 An e-commerce platform using React, ShadCN, and Django
-* 🎨 Interactive UI experiments (animations, playful user interactions)
-* 🔗 Product ideas around creator tools and link-in-bio style platforms
+I enjoy building side projects that explore practical problems, new technologies, and ideas worth experimenting with.
+
+- **Kimchi** — Exploring full-stack application development with Java and Spring Boot.
+- **KargoFleet** — A fleet operations concept focused on bringing dispatch, driver activity, vehicle health, and operational tracking into one place.
+- **Chord Sense** — A Flutter music-learning concept focused on chord exploration, progressions, and daily practice.
+
+I'm also interested in developer tooling, interactive UI experiments, and building small products that solve real problems.
 
 ---
 
 ## 🧠 Current Focus
 
-* Building full-stack apps with modern JavaScript ecosystems
-* Exploring better ways to structure scalable frontend systems
-* Learning lower-level concepts and expanding into Rust
-* Creating UI experiences that feel *alive*, not static
+- Building maintainable production applications with React and TypeScript.
+- Designing reusable component systems and scalable frontend architecture.
+- Expanding into backend engineering with Java/Spring Boot and C#/.NET.
+- Improving my understanding of system design, testing, and software reliability.
+- Exploring lower-level programming concepts with Rust.
 
 ---
 
-## ⚡ Rapidfire
+## ⚡ A Little More About Me
 
-* 🔭 Currently working with Next.js and Spring Boot
-* 🌱 Always improving my JavaScript and system design skills
-* 💬 Ask me about JavaScript, frontend architecture, or building side projects
-* ⚡ Fun fact: I keep night shift on at all times 🌙
+- 💬 Ask me about React, TypeScript, frontend architecture, or component libraries.
+- 🔎 Give me a complicated bug over a straightforward feature any day.
+- 🎨 I enjoy the intersection of engineering and thoughtful UI design.
+- 🌙 Fun fact: I keep Night Shift on at all times.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Core
+### Frontend
 
-* JavaScript / TypeScript
-* React & Vue (Not picky, but I prefer Vue 🤓)
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nextjs,vue,html,css,tailwind" alt="Frontend technologies" />
 
 ### Backend & Data
 
-* Django
-* PostgreSQL
-* Firebase / Supabase
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,django,postgres,firebase" alt="Backend and database technologies" />
 
-### Tools & Other
+### Tools & Workflow
 
-* Git
-* Figma
-* Tailwind CSS
-* Django
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,bash,linux" alt="Development tools" />
 
 ### Exploring
 
-* Rust
+<img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
 
 ---
 
-## 📌 Philosophy
+## 📌 Engineering Philosophy
 
-I like building things that are not just functional, but enjoyable to use.
-For me, good software sits at the intersection of solid engineering and thoughtful design.
+I believe good software is more than code that works. It's software that's understandable, maintainable, reliable, and useful to the people who depend on it.
+
+I'm interested in going beyond implementing requirements — understanding the underlying problem, making considered technical decisions, and building solutions that stand up to real-world use.
 
 ---
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" style="width: 100%" />
+
+*Building, breaking, understanding, and building better.*
+
 </div>
